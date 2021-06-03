@@ -10824,28 +10824,24 @@ textarea.form-control-lg {
   }
 }
 body {
-  background: url("https://pbs.twimg.com/profile_images/1386253685139849219/LfEKX4tf_400x400.jpg") no-repeat center center fixed;
+  background: url("https://raw.githubusercontent.com/Alex-i7/site/main/assets/LfEKX4tf_400x400.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 
-/* width */
 ::-webkit-scrollbar {
   width: 13px;
 }
 
-/* Track */
 ::-webkit-scrollbar-track {
   border-radius: 0px;
   background: #6c757d; 
 }
  
-/* Handle */
 ::-webkit-scrollbar-thumb {
   background: #212529; 
   border-radius: 0px;
 }
 
-/* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: #343a40; 
 }
